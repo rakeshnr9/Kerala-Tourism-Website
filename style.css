@@ -1,0 +1,93 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+html,body
+{
+     height: 100%;
+    background-size: cover;  
+    
+}
+    
+header
+{
+background-color: black;
+height: 7em;
+}
+footer{
+    background-color: black;
+    height: 3em;
+    margin-top: 460px;
+    text-align: center;
+    padding: 3px;
+}
+img
+{
+    margin-left: 10%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+h1
+{
+font-family: 'Times New Roman', Times, serif;
+color: white;
+font-weight: 1500;
+padding:10px;
+
+}
+
+.head-tag
+{
+    float: right;
+    margin-right: 60px;
+}
+.head-tag a
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color:white;
+    border: 1px solid white;
+    padding: 8px;
+    margin-right: 8px;
+}
+.head-tag a:hover
+{
+background-color: teal;
+color: black;
+transition: 0.5s ease-in-out;
+}
+
+.label{
+font-size: 19px;
+margin-top: 20px;
+font-weight: normal;
+}
+ .form-control{
+     background: rgba(255,255, 255, 0.2);
+     border: 0px;
+     border-radius: 0px;
+     border-bottom: 2px solid white;
+     font-size: 21px;
+     color: white;
+     margin: 0px;
+ }
+ .btn-info{
+     margin-top: 30px;
+     margin-left: 600px;
+     width: 180px;
+     font-size: 19px;
+     border-radius: 1000px;
+     
+     
+ }
+ 
+
+ h3{
+     color: white;
+     text-align: center;
+
+ }
+ p{
+     color: white;
+ }
